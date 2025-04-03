@@ -1,0 +1,17 @@
+textarea {
+    min-height: 400px;
+}
+
+
+.email-entry {
+    border: 1px solid #ccc;
+    border-radius: 5px;
+    padding: 10px;
+    margin-bottom: 8px;
+    cursor: pointer;
+    transition: background-color 0.2s;
+}
+
+.email-entry:hover {
+    background-color: #f9f9f9;
+}
